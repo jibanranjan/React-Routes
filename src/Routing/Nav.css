@@ -1,0 +1,35 @@
+.navbar{
+    height: 5rem;
+    background-color: rgb(214, 214, 52);
+   
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.navbar .count{
+    
+    width: 9rem;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+
+}
+
+.navbar ul{
+   
+    width: 40%;
+    height: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.navbar ul li{
+    font-size: 1.3rem;
+    list-style-type: none;
+  
+}
+.navbar ul a{
+    text-decoration: none;
+
+}
